@@ -1,0 +1,8 @@
+#include "Config.h"
+#include "Feature.h"
+#include "Init.h"
+#include "PoseEstimation.h"
+#include "Triangulate.h"
+#include "opencv2/imgcodecs.hpp"
+#include "opencv2/highgui.hpp"
+#include "Stereo.h"
